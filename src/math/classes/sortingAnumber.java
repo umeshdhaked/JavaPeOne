@@ -1,14 +1,14 @@
-package com.company;
+package math.classes;
 
 import java.util.Collections;
 import java.util.Scanner;
 import java.util.Vector;
 
-public class seven {
+public class sortingAnumber {
 
-    public static void fun7() {
+    public static void fun() {
 
-        System.out.println("Question 7 :");
+        System.out.println("7. sorting A number :");
 
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();

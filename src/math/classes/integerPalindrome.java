@@ -1,15 +1,15 @@
-package com.company;
+package math.classes;
 
 import java.util.Scanner;
 import java.util.Vector;
 
-public class one {
+public class integerPalindrome {
 
 
 
-    public static void fun1() {
+    public static void fun() {
 
-        System.out.println("Question 1 :");
+        System.out.println("1. integer palindrome :");
 
         Scanner sc = new Scanner(System.in);
 

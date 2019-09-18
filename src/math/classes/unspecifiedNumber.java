@@ -1,13 +1,13 @@
-package com.company;
+package math.classes;
 
 import java.util.Scanner;
 
-public class five {
+public class unspecifiedNumber {
 
 
-    public static void fun5() {
+    public static void fun() {
 
-        System.out.println("Question 5 :");
+        System.out.println("5. unspecified Number till Character:");
 
         Scanner sc = new Scanner(System.in);
         String str = "0";

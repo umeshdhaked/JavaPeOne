@@ -1,14 +1,14 @@
-package com.company;
+package math.classes;
 
 import java.util.Scanner;
 
-public class three {
+public class ConsonantOrVowel {
 
 
 
-    public static void fun3(){
+    public static void fun(){
 
-        System.out.println("Question 3 :");
+        System.out.println("3. Consonant Or Vowel :");
 
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();

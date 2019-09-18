@@ -1,15 +1,15 @@
-package com.company;
+package math.classes;
 
 import java.util.Scanner;
 
-public class six {
+public class charCase {
 
 
 
 
-    public static void fun6() {
+    public static void fun() {
 
-        System.out.println("Question 6 :");
+        System.out.println("6. check character case :");
 
         Scanner sc = new Scanner(System.in);
         char ch = sc.next().charAt(0);

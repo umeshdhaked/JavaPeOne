@@ -1,10 +1,10 @@
-package com.company;
+package math.classes;
 
 import java.util.Scanner;
 
-public class Qnine {
+public class reverseString {
 
-    public  static void method(){
+    public  static void fun(){
 
 
         System.out.println("Question 9 :");

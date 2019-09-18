@@ -1,10 +1,10 @@
-package com.company;
+package math.classes;
 
 import java.util.Scanner;
 
-public class Qten {
+public class repeatStringEnd {
 
-    public static void method(){
+    public static void fun(){
 
 
         System.out.println("Question 10 :");

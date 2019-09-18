@@ -1,12 +1,12 @@
-package com.company;
+package math.classes;
 
 import java.util.Scanner;
 
-public class two {
+public class TomJerry {
 
 
-    public static void fun2() {
-        System.out.println("Question 2 :");
+    public static void fun() {
+        System.out.println("2. Tom Jerry :");
 
         Scanner sc = new Scanner(System.in);
         int input = sc.nextInt();

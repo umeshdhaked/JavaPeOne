@@ -1,13 +1,13 @@
-package com.company;
+package math.classes;
 
 import java.util.Scanner;
 
-public class four {
+public class repeatingNum {
 
 
-    public static void fun4() {
+    public static void fun() {
 
-        System.out.println("Question 4 :");
+        System.out.println("4. repeating n number n times :");
 
         Scanner sc = new Scanner(System.in);
 

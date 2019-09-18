@@ -1,12 +1,12 @@
-package com.company;
+package math.classes;
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class eight {
+public class guessNumber {
 
 
-   public static void fun8() {
+   public static void fun() {
 
         System.out.println("Question 8 :");
 
